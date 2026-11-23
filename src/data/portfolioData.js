@@ -17,7 +17,7 @@ export const portfolioData = {
     institution: "GLA University, Mathura",
     degree: "BTech in Computer Science and Engineering",
     location: "Mathura, Uttar Pradesh, India",
-    email: "shreyasharma.dev@gmail.com",
+    email: "sharmashreyaa21@gmail.com",
     github: "https://github.com/shreya21-cloud",
     linkedin: "https://linkedin.com/in/shreya-sharma-cse",
     statusBadge: "Available for Internships & Full-Time Roles",
@@ -142,8 +142,8 @@ export const portfolioData = {
         "High-dimensional vector indexing & Cosine Similarity ranking",
         "Intuitive visual dashboard for real-time recommendation testing"
       ],
-      github: "https://github.com/shreya21-cloud/ai-tshirt-recommendation",
-      demo: "https://github.com/shreya21-cloud/ai-tshirt-recommendation",
+      github: "https://github.com/shreya21-cloud/IITD-AI-TShirt-Recommender",
+      demo: "https://github.com/shreya21-cloud/IITD-AI-TShirt-Recommender",
       demoNotice: "Research project developed under IIT Delhi internship. Repository contains model implementation, pipeline benchmarks, and evaluation notebooks."
     },
     {
@@ -167,8 +167,8 @@ export const portfolioData = {
         "Instant request matching and automated delivery status tracker",
         "Social impact counter computing meals rescued and environmental footprint"
       ],
-      github: "https://github.com/shreya21-cloud/foodsaathi-mern",
-      demo: "https://github.com/shreya21-cloud/foodsaathi-mern",
+      github: "https://github.com/shreya21-cloud/FoodSaathi",
+      demo: "https://github.com/shreya21-cloud/FoodSaathi",
       demoNotice: "Full MERN stack project with comprehensive backend REST APIs, authentication, and dynamic interactive client frontend."
     },
     {
@@ -192,8 +192,8 @@ export const portfolioData = {
         "Interactive applicant tracking board with drag-and-drop interview stages",
         "Recruiter dashboard with rich candidate analytics and export options"
       ],
-      github: "https://github.com/shreya21-cloud/nexthire-ai-recruiter",
-      demo: "https://github.com/shreya21-cloud/nexthire-ai-recruiter",
+      github: "https://github.com/shreya21-cloud/Next_Hire",
+      demo: "https://github.com/shreya21-cloud/Next_Hire",
       demoNotice: "End-to-end recruitment platform with full candidate workflows and automated applicant scoring."
     },
     {
@@ -276,9 +276,9 @@ export const portfolioData = {
     channels: [
       {
         type: "Email",
-        value: "shreyasharma.dev@gmail.com",
+        value: "sharmashreyaa21@gmail.com",
         actionText: "Send an Email",
-        href: "mailto:shreyasharma.dev@gmail.com",
+        href: "mailto:sharmashreyaa21@gmail.com",
         icon: "HiEnvelope",
         note: "Direct Response within 24 hours"
       },
